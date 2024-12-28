@@ -1,4 +1,4 @@
-# 3. Proyecto REACT (Desafio 360)
+# 3. Proyecto REACT (Desafio 360) - PENDIENTE DE CAMBIOS y CARACTERISTICAS
 
 Proyecto de Frontend parte del Desafio 360
 
